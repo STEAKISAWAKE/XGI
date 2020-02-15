@@ -2,7 +2,7 @@ Making this library do what I need in my project
 * Removing all the engine stuff I dont need any of that.
 * Removing sdl2
 * Adding glfw3
-* Only keep vulkan stuff and add own math stuff
+* Only keep vulkan stuff
 
 
 # XGI : X-TeK Graphics Programming Interface
