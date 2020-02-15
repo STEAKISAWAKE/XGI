@@ -3,6 +3,7 @@ Making this library do what I need in my project
 * Removing sdl2
 * Adding glfw3
 * Only keep vulkan stuff
+* Using cmake instead of non portable projects
 
 
 # XGI : X-TeK Graphics Programming Interface
